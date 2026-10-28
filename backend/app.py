@@ -1,4 +1,6 @@
 """FestPass registration API (starter code)."""
+import utils.transport
+import utils.session
 import os
 import signal
 import socket
